@@ -1,0 +1,19 @@
+﻿  LibrarySort.cpp
+C:\Users\fullf\source\repos\LibrarySort\LibrarySort\Librarian.h(129,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\fullf\source\repos\LibrarySort\LibrarySort\Librarian.h(128): message : во время компиляции функции-члена класс шаблон "void Librarian<int>::Copy(T *)"
+          with
+          [
+              T=int
+          ]
+C:\Users\fullf\source\repos\LibrarySort\LibrarySort\Librarian.h(160): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Librarian<int>::Copy(T *)"
+          with
+          [
+              T=int
+          ]
+C:\Users\fullf\source\repos\LibrarySort\LibrarySort\LibrarySort.cpp(19): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Librarian<int>"
+  Создание кода
+  3 of 160 functions ( 1.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  LibrarySort.vcxproj -> C:\Users\fullf\source\repos\LibrarySort\Release\LibrarySort.exe
